@@ -235,4 +235,4 @@ load_opus_lib()
 
 
 
-client.run(str(os.environ.get('BOT_TOKEN')))
+client.run(str(os.environ.get('NDU3ODE2MDAwMDc1OTIzNDY2.Dx1BPA.34kCRjs-FTO3O4IVT9rW8aN5y2E')))
